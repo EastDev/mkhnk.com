@@ -9,5 +9,5 @@ All custom files licensed under the <a href="http://creativecommons.org/licenses
 
 <a href="http://chartjs.org/">Chart.js</a> licensed under the <a href="https://github.com/nnnick/Chart.js/blob/master/LICENSE.md">MIT License</a>.<br>
 <a href="http://getbootstrap.com">Bootstrap v3.0.2</a> licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>.<br>
-<a href="git.io/normalize">normalize.css v2.1.3</a> licensed under the <a href="http://opensource.org/licenses/mit-license.html">MIT License</a>.<br>
+<a href="http://git.io/normalize">normalize.css v2.1.3</a> licensed under the <a href="http://opensource.org/licenses/mit-license.html">MIT License</a>.<br>
 <a href="http://fontawesome.io">Font Awesome</a> licensed under the <a href="http://scripts.sil.org/OFL">SIL OFL 1.1</a> (Fonts) and the <a href="http://opensource.org/licenses/mit-license.html">MIT License</a> (Code).
